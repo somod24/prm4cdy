@@ -17,3 +17,9 @@ INSERT INTO trans.cdypfom (item_ix,sba_id,"name",crop_ix,od,k,eta,cnr,cnr_alt,dm
   VALUES (903,NULL,'maisberge_st_FAST',NULL,false,0.067,0.313,29.0,29.0,1.0,0.46,0.0,'SoilX, FAST, CH');
 INSERT INTO trans.cdypfom (item_ix,sba_id,"name",crop_ix,od,k,eta,cnr,cnr_alt,dm,c_dm,mor,"source") 
   VALUES (904,NULL,'WWdyn_st_FAST',NULL,true,0.15,0.54,109.0,109.0,0.901,0.466,0.0,'SoilX, FAST, CH');
+INSERT INTO trans.cdypfom (item_ix,sba_id,"name",crop_ix,od,k,eta,cnr,cnr_alt,dm,c_dm,mor,"source") 
+  VALUES (88,NULL,'grass cutting',NULL,true,0.15,0.5,20.2,18.4,0.22,0.436,0.1,NULL);
+INSERT INTO trans.cdypfom (item_ix,sba_id,"name",crop_ix,od,k,eta,cnr,cnr_alt,dm,c_dm,mor,"source") 
+  VALUES (4,NULL,'Grass_GCEF_40',NULL,false,0.2,0.7,60.0,60.0,1.0,1.0,0.0,NULL);
+INSERT INTO trans.cdypfom (item_ix,sba_id,"name",crop_ix,od,k,eta,cnr,cnr_alt,dm,c_dm,mor,"source")
+  VALUES (64,NULL,'grass 1 cut',NULL,true,0.15,0.5,25.0,25.0,0.22,0.415,0.0,NULL);
